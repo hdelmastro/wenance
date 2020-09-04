@@ -22,11 +22,17 @@ mvn spring-boot:run
 
 ## Pruebas ⚙️
 
-_Para probar el servicio puede hacer un GET a los siguientes endpoints:_
+_Para probar el servicio puede hacer un GET a alguno de los siguientes endpoints:_
 
-_http://localhost:8080/wenance/price?at=2020-09-04T15:36:29_
+```
+_http://localhost:8080/wenance/price?at=YYYY-MM-DDThh:mm:ss_
+```
+```
+_http://localhost:8080/wenance/average?from=YYYY-MM-DDThh:mm:ss&to=YYYY-MM-DDThh:mm:ss_
+```
+_donde las fechas y horas deben ser posteriores al inicio del servicio y anterior al momento actual_
 
-_http://localhost:8080/wenance/average?from=2020-09-03T06:17:55&to=2020-09-03T16:04:00_
+
 
 ### Analice las pruebas end-to-end 🔩
 
