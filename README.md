@@ -20,8 +20,17 @@ _Una vez clonado el repositorio dirigirse a la carpeta de descarga, para ejecuta
 mvn spring-boot:run
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+## Pruebas ⚙️
 
+_Para probar el servicio puede hacer un GET a los siguientes endpoints:_
+
+_http://localhost:8080/wenance/price?at=2020-09-04T15:36:29_
+
+_http://localhost:8080/wenance/average?from=2020-09-03T06:17:55&to=2020-09-03T16:04:00_
+
+### Analice las pruebas end-to-end 🔩
+
+_Explica que verifican estas pruebas y por qué_
 
 ## Construido con 🛠️
 
