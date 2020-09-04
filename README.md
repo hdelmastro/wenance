@@ -8,8 +8,8 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ### Pre-requisitos 📋
 
-_Debes tener instalado JAVA jdk 1.8 o posterior https://www.oracle.com/ar/java/technologies/javase/javase-jdk8-downloads.html_
-_y Maven para poder compilar el proyecto https://maven.apache.org/download.cgi_
+_Debes tener instalado JAVA jdk 1.8 o posterior (https://www.oracle.com/ar/java/technologies/javase/javase-jdk8-downloads.html)._
+_y Maven para poder compilar el proyecto (https://maven.apache.org/download.cgi)._
 
 
 ### Instalación 🔧
