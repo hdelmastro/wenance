@@ -4,7 +4,7 @@ _API para la obtencion de cotizacion de BTC por Fecha_
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_A continuación se detalla los paso para la puesta en funcionamiento de forma local de la aplicación para la obtencion de cotizaciones._
 
 ### Pre-requisitos 📋
 
