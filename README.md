@@ -9,12 +9,13 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 ### Pre-requisitos 📋
 
 _Debes tener instalado JAVA jdk 1.8 o posterior (https://www.oracle.com/ar/java/technologies/javase/javase-jdk8-downloads.html)._
-_y Maven para poder compilar el proyecto (https://maven.apache.org/download.cgi)._
+
+_Y Maven para poder compilar el proyecto (https://maven.apache.org/download.cgi)._
 
 
 ### Instalación 🔧
 
-_Una vez clonado el repositorio dirigirse a la carpeta de descarga, para ejecutarlo debe correr la siguiente linea de commandos_
+_Una vez clonado el repositorio dirigirse a la carpeta de descarga, para ejecutarlo debe correr la siguiente linea de commandos:_
 
 ```
 mvn spring-boot:run
@@ -30,16 +31,10 @@ http://localhost:8080/wenance/price?at=YYYY-MM-DDThh:mm:ss
 ```
 http://localhost:8080/wenance/average?from=YYYY-MM-DDThh:mm:ss&to=YYYY-MM-DDThh:mm:ss
 ```
-_donde las fechas y horas deben ser posteriores al inicio del servicio y anterior al momento actual_
+_donde las fechas y horas deben ser posteriores al inicio del servicio y anterior al momento actual._
 
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
 
 ## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 
