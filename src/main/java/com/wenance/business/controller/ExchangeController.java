@@ -46,7 +46,7 @@ public class ExchangeController {
 	}
 	
 	@GetMapping("/price")
-	public ResponseEntity<Double> price(@RequestParam(value = "from") String atDateTimeStr) {
+	public ResponseEntity<Double> price(@RequestParam(value = "at") String atDateTimeStr) {
 	
 		
 		LocalDateTime atDateTime = LocalDateTime.now().minus(60, ChronoUnit.SECONDS);
